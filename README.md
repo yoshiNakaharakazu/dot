@@ -3,6 +3,7 @@
 - fzf
 - ghq
 - emacs
+- spacemacs
 ## optional
 - xmonad
 - xmobar
