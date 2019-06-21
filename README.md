@@ -1,0 +1,17 @@
+# Require
+- fish
+- fzf
+- ghq
+- emacs
+## optional
+- xmonad
+- xmobar
+- termite
+- icon
+- latex
+- nvim
+- compton
+- zathura
+- systemd
+- fontconfig
+- feh
